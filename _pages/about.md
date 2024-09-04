@@ -27,3 +27,4 @@ I am an Economics PhD candidate at University College London (UCL), and a PhD Sc
 
 My research interests are in empirical macroeconomics, with a focus on firm dynamics, industrial policy, and regional inequality.
 
+You can view my CV **[here](/assets/pdf/lazarowicz_cv.pdf){: .cv-button target="_blank"}**
