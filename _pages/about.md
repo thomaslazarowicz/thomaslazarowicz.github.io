@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Home
+cv_link: /assets/pdf/academic_cv.pdf
 permalink: /
 subtitle:  #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 

@@ -38,6 +38,15 @@ layout: default
       </div>
     {% endif %}
 
+
+	<!-- New CV Link Block -->
+        {% if page.cv_link %}
+          <div class="cv-link">
+            <a href="{{ page.cv_link }}" class="btn btn-primary" target="_blank">
+              <i class="fas fa-file-alt mr-2"></i>View my CV
+            </a>
+          </div>
+        {% endif %}
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
