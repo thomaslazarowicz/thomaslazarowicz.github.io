@@ -23,3 +23,11 @@ nav_order: 6
 <ins> Household Debt and Labour Supply, Bank of England Staff Working Paper no.941, with Phil Bunn, Jagjit Chadha, Stephen Millard, and Emma Rockall <ins>
 
 **Abstract:** In this paper, we first develop a theoretical framework with three types of household: outright homeowners, mortgagors and renters. We then examine empirically how household debt affects the response of labour supply to shocks to income, mortgage interest rates and house prices for each type of household. In line with our framework, we find that negative income shocks lead to lower participation among outright homeowners while increasing mortgagors’ desired hours; surprise rises in interest rates lead to increases in desired hours that are larger the higher is the household’s debt level; and falls in house prices increase mortgagors’ desired hours. 
+
+
+**Work in Progress**
+<ins> Monetary Transmission Through The Housing Sector, with Daniel Albuquerque and Jamie Lenney <ins>
+
+
+<ins> Productivity Slowdowns and Local Demand Shocks<ins>
+
