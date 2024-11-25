@@ -12,7 +12,7 @@ nav_order: 6
 
 
 
-<ins> Winners and Losers from Monetary Policy: Evidence from the UK Rental Market, with Morgane Richard <ins>
+<ins> Winners and Losers from Monetary Policy: Evidence from the UK Rental Market,<ins>**, with Morgane Richard** 
 
 **Abstract:** This paper estimates the heterogenous effects of monetary policy across a novel dimension, housing tenure. Using microdata from one of the UK’s largest property rental and sales websites, we show that, as in the US, a contractionary shock to the policy rate leads to 1) an increase in rental prices and simultaneously 2) a fall in house prices. The granular microdata also allows us to demonstrate that a contractionary shock leads to a decrease in the listing rate of rental properties, suggesting that this heterogenous response across rents and house prices is not solely driven by household tenure decisions, but also by a rental supply channel. Finally, our identification approach does not lead to the typical ‘price puzzle’ found in many monetary VARs, suggesting that while contractionary policy lowers inflation, inflation incidence is heterogenous across housing tenure and implies a new distributional channel of monetary policy.
 
