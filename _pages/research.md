@@ -10,8 +10,9 @@ nav_order: 6
 
 ## Working Papers
 
-**Monetary Transmission Through The Housing Sector, with Daniel Albuquerque and Jamie Lenney**
-The simultaneous rise in housing rents and interest rates over 2022–24 brought scrutiny
+**[Monetary Transmission Through The Housing Sector](/assets/pdf/swp115compressed.pdf), with Daniel Albuquerque and Jamie Lenney**
+
+**Abstract:**The simultaneous rise in housing rents and interest rates over 2022–24 brought scrutiny
 to the interaction between monetary policy and the housing market. We start by providing
 evidence on this interaction using data from the United Kingdom and a high frequency
 identification. Our main empirical finding is that house prices and rents do not move together
