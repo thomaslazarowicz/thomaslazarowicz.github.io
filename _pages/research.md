@@ -8,6 +8,13 @@ nav: true
 nav_order: 6
 ---
 
+<style>
+a {
+  color: inherit;             /* Inherit the parent's text color */
+  text-decoration: underline; /* Always underline links */
+}
+</style>
+
 ## Working Papers
 
 **[Monetary Transmission Through The Housing Sector](/assets/pdf/swp115compressed.pdf), with Daniel Albuquerque and Jamie Lenney**
