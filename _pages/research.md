@@ -9,15 +9,15 @@ nav_order: 6
 ---
 
 <style>
-a {
+a.custom-link {
   color: inherit;             /* Inherit the parent's text color */
-  text-decoration: underline; /* Always underline links */
+  text-decoration: underline; /* Underline this specific link */
 }
 </style>
 
 ## Working Papers
 
-**[Monetary Transmission Through The Housing Sector](/assets/pdf/swp115compressed.pdf), with Daniel Albuquerque and Jamie Lenney**
+**[Monetary Transmission Through The Housing Sector](/assets/pdf/swp115compressed.pdf){: .custom-link}, with Daniel Albuquerque and Jamie Lenney**
 
 **Abstract:**The simultaneous rise in housing rents and interest rates over 2022–24 brought scrutiny
 to the interaction between monetary policy and the housing market. We start by providing
