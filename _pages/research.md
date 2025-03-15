@@ -54,3 +54,6 @@ housing supply shocks.
 
 **Productivity Slowdowns and Local Demand Shocks**
 
+**Who Exits? Latent Heterogeneity in Firm Destruction over the Business Cycle, with Elena Casanovas**
+
+**Industrial Policy and Firm Entry**
