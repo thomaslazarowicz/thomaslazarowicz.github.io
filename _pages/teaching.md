@@ -8,6 +8,7 @@ nav_order: 6
 ---
 
 **Courses** 
+
 Advanced Macroeconomic Theory, MSc, 2024-2026
 
 Econometrics for Macroeconomics, Undergraduate, 2023
