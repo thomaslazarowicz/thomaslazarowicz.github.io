@@ -8,14 +8,13 @@ nav_order: 6
 ---
 
 **Courses** 
+Advanced Macroeconomic Theory, MSc, 2024-2026
 
 Econometrics for Macroeconomics, Undergraduate, 2023
 
-Big Data Analytics, MSc, 2023
+Big Data Analytics: Intro to Machine Learning, MSc, 2023 - 2024
 
 Macroeconomic Theory and Policy, Undergraduate, 2021-2023
-
-Time Series Analysis and Forecasting, MSc, 2022
 
 Time Series Econometrics, MSc, 2021-2022
 
