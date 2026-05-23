@@ -47,7 +47,4 @@ The calibrated model replicates key empirical patterns and attributes an upper-b
 
 ## Work in Progress
 
-
-**Who Exits? Latent Heterogeneity in Firm Destruction over the Business Cycle, with Elena Casanovas**
-
 **Industrial Policy and Firm Entry**
