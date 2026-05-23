@@ -30,7 +30,7 @@ The calibrated model replicates key empirical patterns and attributes an upper-b
 
 *Previously circulated as "Monetary Transmission Through The Housing Sector"*
 
-**Abstract:**This paper develops a Heterogeneous Agent New Keynesian (HANK) model with housing and individual landlords to examine how monetary policy affects housing and rental markets. Using new UK evidence we document that contractionary monetary policy generates a large, hump-shaped, decline in house prices, while rental prices remain flat. We match the model to micro and macro data, showing that behavioural frictions combined with departures from a RANK framework are key for generating these price dynamics. The results reveal that landlords largely fail to pass through higher interest rates to rents. However, this incomplete pass-through reduces the output-inflation trade-off facing inflation-targeting central banks.
+**Abstract:** This paper develops a Heterogeneous Agent New Keynesian (HANK) model with housing and individual landlords to examine how monetary policy affects housing and rental markets. Using new UK evidence we document that contractionary monetary policy generates a large, hump-shaped, decline in house prices, while rental prices remain flat. We match the model to micro and macro data, showing that behavioural frictions combined with departures from a RANK framework are key for generating these price dynamics. The results reveal that landlords largely fail to pass through higher interest rates to rents. However, this incomplete pass-through reduces the output-inflation trade-off facing inflation-targeting central banks.
 
 **Winners and Losers from Monetary Policy: Evidence from the UK Rental Market, with Morgane Richard**
 

@@ -23,7 +23,8 @@ social: true # includes social icons at the bottom of the page
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-I am an Economics PhD candidate at University College London (UCL), and a PhD Scholar at the Stone Centre on Wealth Concentration, Inequality, and the Economy. I am also a PhD Analyst at the [UCL MacroMonitor](https://macromonitor.org/), where I am responsible for back-end nowcasting model development — see our upcoming [launch event](https://www.ucl.ac.uk/social-historical-sciences/events/2026/jun/ucl-macromonitor-launch-hosted-ucl-economics-and-ucl-policy-lab).
+I am an Economics PhD candidate at University College London (UCL), and a PhD Scholar at the Stone Centre on Wealth Concentration, Inequality, and the Economy.<br>
+I am also a PhD Analyst at the [UCL MacroMonitor](https://macromonitor.org/), where I am responsible for back-end nowcasting model development — see our upcoming [launch event](https://www.ucl.ac.uk/social-historical-sciences/events/2026/jun/ucl-macromonitor-launch-hosted-ucl-economics-and-ucl-policy-lab).
 
 My research interests are in empirical macroeconomics, with a focus on firm dynamics, industrial policy, and regional inequality.
 
