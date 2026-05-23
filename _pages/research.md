@@ -17,6 +17,16 @@ a.custom-link {
 
 ## Working Papers
 
+**Demand-Driven Stagnation: Customer Acquisition and Persistent Firm Growth Slowdowns**
+
+*Peter Sinclair Prize for Best Paper (Joint 1st Place, 13th MMF PhD Conference)*
+
+**Abstract:** This paper shows that weak demand has played a critical and lasting role in the United Kingdom's post-financial crisis slowdown. Exploiting local variation in the 2010 austerity program, I document that young firms, traditionally major contributors to job creation and productivity growth, saw their growth stall in regions hit harder by spending reductions. Young firms cut marketing expenditure by 15% and saw output growth slow, while employment and other production inputs were unaffected.
+To explain why demand shocks disproportionately scar young firms, I develop a dynamic general equilibrium model where firms accumulate customers with heterogeneous income. Two features are key. First, non-homothetic preferences generate higher income elasticities for low-income households. Second, low-income customers churn faster, making them over-represented in the acquisition pool. Together, these forces create a "churn trap": young firms inherit low income-biased customer bases and face disproportionately volatile demand. When household income falls, the expected value of acquiring new customers drops sharply, causing young firms to cut marketing - their primary investment in customer acquisition.
+The calibrated model replicates key empirical patterns and attributes an upper-bound estimate of approximately one-quarter of the UK's post-crisis productivity shortfall to these demand-side forces.
+
+
+
 **[Monetary Transmission Through The Housing Sector](/assets/pdf/swp115compressed.pdf){: .custom-link}, with Daniel Albuquerque and Jamie Lenney**
 
 **Abstract:**The simultaneous rise in housing rents and interest rates over 2022–24 brought scrutiny
@@ -34,10 +44,6 @@ on mortgage costs and act more like wealthy hand to mouth; (3) these behavioural
 dampen the potential trade-off between prices and output induced by the rental market; and
 (4) that it may be optimal for monetary policy makers to look through and accommodate
 housing supply shocks.
-
-**Austerity and Business Dynamism**
-
-**Abstract:** This paper shows that weak aggregate demand has played a critical and lasting role in the United Kingdom’s post financial crisis slowdown. Using firm‐level data linked to local authority–level spending cuts, I document that young firms, traditionally major contributors to productivity growth, saw their growth stall in regions hit harder by reductions in Government spending. These young firms are reliant on acquiring new customers to grow, a margin that becomes more costly and less effective when demand falters. To explain why this slowdown persists, I develop a tractable model with two sided heterogeneity where firms invest in brand capital through customer acquisition, but where non‐homothetic preferences amplify the impact of demand shocks. Even a temporary drop in aggregate demand can lead to persistently weaker firm performance, as consumers cut back their spending, young firms who rely on the extensive margin of customer acquisition are hit particularly hard. The model replicates key empirical patterns and suggests that a substantial fraction of the UK’s slowdown can be attributed to these demand‐side forces. Overall, this paper highlights the importance of incorporating demand‐driven channels into analyses of long‐run stagnation. The findings underscore the potential value of targeted policies, such as marketing subsidies for high‐growth startups or more deliberate fiscal support to mitigate the scarring effects of weak aggregate demand.
 
 **Winners and Losers from Monetary Policy: Evidence from the UK Rental Market, with Morgane Richard**
 
