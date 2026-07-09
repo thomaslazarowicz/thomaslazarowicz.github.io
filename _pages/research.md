@@ -15,7 +15,8 @@ a.custom-link {
 }
 </style>
 
-## Job Market Paper
+
+## Working Papers
 
 **Demand-Driven Stagnation: Customer Acquisition and Persistent Firm Growth Slowdowns**
 
@@ -25,7 +26,6 @@ a.custom-link {
 To explain why demand shocks disproportionately scar young firms, I develop a dynamic general equilibrium model where firms accumulate customers with heterogeneous income. Two features are key. First, non-homothetic preferences generate higher income elasticities for low-income households. Second, low-income customers churn faster, making them over-represented in the acquisition pool. Together, these forces create a "churn trap": young firms inherit low income-biased customer bases and face disproportionately volatile demand. When household income falls, the expected value of acquiring new customers drops sharply, causing young firms to cut marketing - their primary investment in customer acquisition.
 The calibrated model replicates key empirical patterns and attributes an upper-bound estimate of approximately one-quarter of the UK's post-crisis productivity shortfall to these demand-side forces.
 
-## Working Papers
 
 **[Monetary Transmission in a HANK Model with Housing and Rental Sectors](/assets/pdf/CFMDP2025-29-Paper.pdf){: .custom-link}, with Daniel Albuquerque and Jamie Lenney**
 
