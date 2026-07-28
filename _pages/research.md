@@ -20,7 +20,7 @@ a.custom-link {
 
 **Demand-Driven Stagnation: Customer Acquisition and Persistent Firm Growth Slowdowns**
 
-*Peter Sinclair Prize for Best Paper (Joint 1st Place, 13th MMF PhD Conference)*
+*Peter Sinclair Prize for Best Paper (13th MMF PhD Conference)*
 
 **Abstract:** This paper shows that weak demand has played a critical and lasting role in the United Kingdom's post-financial crisis slowdown. Exploiting local variation in the 2010 austerity program, I document that young firms, traditionally major contributors to job creation and productivity growth, saw their growth stall in regions hit harder by spending reductions. Young firms cut marketing expenditure by 15% and saw output growth slow, while employment and other production inputs were unaffected.
 To explain why demand shocks disproportionately scar young firms, I develop a dynamic general equilibrium model where firms accumulate customers with heterogeneous income. Two features are key. First, non-homothetic preferences generate higher income elasticities for low-income households. Second, low-income customers churn faster, making them over-represented in the acquisition pool. Together, these forces create a "churn trap": young firms inherit low income-biased customer bases and face disproportionately volatile demand. When household income falls, the expected value of acquiring new customers drops sharply, causing young firms to cut marketing - their primary investment in customer acquisition.
