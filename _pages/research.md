@@ -27,7 +27,7 @@ To explain why demand shocks disproportionately scar young firms, I develop a dy
 The calibrated model replicates key empirical patterns and attributes an upper-bound estimate of approximately one-quarter of the UK's post-crisis productivity shortfall to these demand-side forces.
 
 
-**[Monetary Transmission in a HANK Model with Housing and Rental Sectors](/assets/pdf/CFMDP2025-29-Paper.pdf){: .custom-link}, with Daniel Albuquerque and Jamie Lenney**
+**[Monetary Transmission in a HANK Model with Housing and Rental Sectors](/assets/pdf/CFMDP2025-29-Paper.pdf){: .custom-link}, with [Daniel Albuquerque](https://danielalbuquerque.com/){: .custom-link} and [Jamie Lenney](https://s0840389.github.io/jamielenneyecon/){: .custom-link}**
 
 *Previously circulated as "Monetary Transmission Through The Housing Sector"*
 
@@ -39,7 +39,7 @@ The calibrated model replicates key empirical patterns and attributes an upper-b
 
 **Abstract:** Firms run by serial entrepreneurs are larger and more productive, yet how much their reallocation across businesses contributes to aggregate output is unknown. I develop a firm-dynamics model in which entrepreneurs learn about their own ability and their business-specific match quality, and must liquidate and refinance to start over. I estimate the model on administrative data covering the universe of UK firms linked to their beneficial owners, which lets me follow entrepreneurs across the businesses they run. Two facts discipline the mechanism: within entrepreneurs, the serial productivity premium predates the switch to a new business — selection on ability, not learning-by-doing — and exit rates rise and then fall with firm age, as they do in the model because entrepreneurs need time to learn whether a business is worth keeping. Lowering the cost of starting over raises aggregate output by 4 percent and triples the serial-entrepreneur share, with the gain coming from reallocating able entrepreneurs toward better matches rather than from entry or scale. For bankruptcy policy, the cost of starting over is what matters, not creditor recovery: raising recovery rates increases output only when it also makes fresh starts cheaper.
 
-**Winners and Losers from Monetary Policy: Evidence from the UK Rental Market, with Morgane Richard**
+**Winners and Losers from Monetary Policy: Evidence from the UK Rental Market, with [Morgane Richard](https://www.morganerichard.com/){: .custom-link}**
 
 **Abstract:** This paper estimates the heterogenous effects of monetary policy across a novel dimension, housing tenure. Using microdata from one of the UK’s largest property rental and sales websites, we show that, as in the US, a contractionary shock to the policy rate leads to 1) an increase in rental prices and simultaneously 2) a fall in house prices. The granular microdata also allows us to demonstrate that a contractionary shock leads to a decrease in the listing rate of rental properties, suggesting that this heterogenous response across rents and house prices is not solely driven by household tenure decisions, but also by a rental supply channel. Finally, our identification approach does not lead to the typical ‘price puzzle’ found in many monetary VARs, suggesting that while contractionary policy lowers inflation, inflation incidence is heterogenous across housing tenure and implies a new distributional channel of monetary policy.
 
