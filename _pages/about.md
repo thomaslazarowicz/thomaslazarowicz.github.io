@@ -25,9 +25,10 @@ social: true # includes social icons at the bottom of the page
 ---
 I am an Economics PhD candidate at University College London (UCL), and a PhD Scholar at the Stone Centre on Wealth Concentration, Inequality, and the Economy.
 
+I will be on the academic job market in 2026/27.
+
 I study how heterogeneity across households, firms, and entrepreneurs shapes macroeconomic dynamics. Combining UK administrative and survey microdata with quantitative heterogeneous agent models, my research shows how demand side forces and reallocation frictions drive firm growth, productivity, and the transmission of monetary and fiscal policy.
 
-
-I am also a PhD Analyst at the [UCL MacroMonitor](https://macro-monitor-staging-git-main-tizianodbs-projects.vercel.app/), where I am responsible for back-end nowcasting model development.
+I am also a PhD Analyst at the [UCL MacroMonitor](https://macromonitor.org/), where I am responsible for back-end nowcasting model development.
 
 You can view my CV **[here](/assets/pdf/academic_cv.pdf){: .cv-button target="_blank"}**
