@@ -13,6 +13,12 @@
 {% if site.scholar_userid %}
   <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 {% endif %}
+{% if site.repec_url %}
+  <a href="{{ site.repec_url }}" title="RePEc/IDEAS"><i class="ai ai-ideas-repec"></i></a>
+{% endif %}
+{% if site.ssrn_id %}
+  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.ssrn_id }}" title="SSRN"><i class="ai ai-ssrn"></i></a>
+{% endif %}
 {% if site.inspirehep_id %}
   <a href="https://inspirehep.net/authors/{{ site.inspirehep_id }}" title="Inspire HEP"><i class="ai ai-inspire"></i></a>
 {% endif %}

@@ -7,6 +7,7 @@ subtitle:  #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: lazarowicz.jpg
+  image_alt: Photo of Thomas Lazarowicz
   image_circular: false # crops the image to make it circular
   more_info: #> 
     #<p>555 your office number</p>

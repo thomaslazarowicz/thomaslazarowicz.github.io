@@ -8,17 +8,18 @@ middle_name:
 last_name: Lazarowicz
 email: thomas.lazarowicz.16@ucl.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website and portfolio of Thomas Lazarowicz.
+  Thomas Lazarowicz, Economics PhD candidate at University College London (UCL).
+  Research in macroeconomics, firm dynamics, heterogeneous agent models and monetary policy.
 footer_text: #>
  # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
  # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Thomas Lazarowicz, economics, macroeconomics, UCL, job market candidate, firm dynamics, heterogeneous agents, HANK, monetary policy # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  #⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://thomaslazarowicz.github.io # the base hostname & protocol for your site
-baseurl: / # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://www.thomaslazarowicz.com # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -78,7 +79,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: thomaslazarowicz # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id:  # Inspire HEP author ID
@@ -95,11 +96,13 @@ osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
+repec_url: # full URL of your IDEAS/RePEc profile, e.g. https://ideas.repec.org/e/pla123.html
 research_gate_profile: # your profile on ResearchGate
 scholar_userid:  # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
+ssrn_id: # your SSRN author ID (the number in papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=...)
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
