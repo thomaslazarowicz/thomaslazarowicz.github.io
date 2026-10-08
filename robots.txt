@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thomaslazarowicz.github.io//sitemap.xml
+Sitemap: https://www.thomaslazarowicz.com/sitemap.xml
