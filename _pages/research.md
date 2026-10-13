@@ -15,7 +15,6 @@ a.custom-link {
 }
 </style>
 
-
 ## Working Papers
 
 **Demand-Driven Stagnation: Customer Acquisition and Firm Growth**
