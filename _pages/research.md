@@ -2,10 +2,9 @@
 layout: page
 permalink: /research/
 title: Research
-subtitle: Working Papers
 description:
 nav: true
-nav_order: 6
+nav_order: 1
 ---
 
 <style>
@@ -15,7 +14,7 @@ a.custom-link {
 }
 </style>
 
-## Working Papers
+## Job Market Paper
 
 **Demand-Driven Stagnation: Customer Acquisition and Firm Growth**
 
@@ -25,6 +24,7 @@ a.custom-link {
 To explain why demand shocks disproportionately scar young firms, I develop a dynamic general equilibrium model where firms accumulate customers with heterogeneous income. Two features are key. First, non-homothetic preferences generate higher income elasticities for low-income households. Second, low-income customers churn faster, making them over-represented in the acquisition pool. Together, these forces create a "churn trap": young firms inherit low income-biased customer bases and face disproportionately volatile demand. When household income falls, the expected value of acquiring new customers drops sharply, causing young firms to cut marketing - their primary investment in customer acquisition.
 The calibrated model replicates key empirical patterns and attributes an upper-bound estimate of approximately one-quarter of the UK's post-crisis productivity shortfall to these demand-side forces.
 
+## Working Papers
 
 **[Monetary Transmission in a HANK Model with Housing and Rental Sectors](/assets/pdf/CFMDP2025-29-Paper.pdf){: .custom-link}, with [Daniel Albuquerque](https://danielalbuquerque.com/){: .custom-link} and [Jamie Lenney](https://s0840389.github.io/jamielenneyecon/){: .custom-link}**
 
@@ -40,7 +40,7 @@ The calibrated model replicates key empirical patterns and attributes an upper-b
 
 **Winners and Losers from Monetary Policy: Evidence from the UK Rental Market, with [Morgane Richard](https://www.morganerichard.com/){: .custom-link}**
 
-**Abstract:** This paper estimates the heterogenous effects of monetary policy across a novel dimension, housing tenure. Using microdata from one of the UK’s largest property rental and sales websites, we show that, as in the US, a contractionary shock to the policy rate leads to 1) an increase in rental prices and simultaneously 2) a fall in house prices. The granular microdata also allows us to demonstrate that a contractionary shock leads to a decrease in the listing rate of rental properties, suggesting that this heterogenous response across rents and house prices is not solely driven by household tenure decisions, but also by a rental supply channel. Finally, our identification approach does not lead to the typical ‘price puzzle’ found in many monetary VARs, suggesting that while contractionary policy lowers inflation, inflation incidence is heterogenous across housing tenure and implies a new distributional channel of monetary policy.
+**Abstract:** This paper estimates the heterogeneous effects of monetary policy across a novel dimension, housing tenure. Using microdata from one of the UK’s largest property rental and sales websites, we show that, as in the US, a contractionary shock to the policy rate leads to 1) an increase in rental prices and simultaneously 2) a fall in house prices. The granular microdata also allows us to demonstrate that a contractionary shock leads to a decrease in the listing rate of rental properties, suggesting that this heterogeneous response across rents and house prices is not solely driven by household tenure decisions, but also by a rental supply channel. Finally, our identification approach does not lead to the typical ‘price puzzle’ found in many monetary VARs, suggesting that while contractionary policy lowers inflation, inflation incidence is heterogeneous across housing tenure and implies a new distributional channel of monetary policy.
 
 
 **Household Debt and Labour Supply, Bank of England Staff Working Paper no.941, with Phil Bunn, Jagjit Chadha, Stephen Millard, and [Emma Rockall](https://www.emmarockall.com/){: .custom-link}**
