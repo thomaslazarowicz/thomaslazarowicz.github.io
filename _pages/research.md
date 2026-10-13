@@ -18,7 +18,7 @@ a.custom-link {
 
 ## Working Papers
 
-**Demand-Driven Stagnation: Customer Acquisition and Persistent Firm Growth Slowdowns**
+**Demand-Driven Stagnation: Customer Acquisition and Firm Growth**
 
 *Peter Sinclair Prize for Best Paper (13th MMF PhD Conference)*
 
