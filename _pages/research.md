@@ -20,9 +20,13 @@ a.custom-link {
 
 *Peter Sinclair Prize for Best Paper (13th MMF PhD Conference)*
 
-**Abstract:** This paper shows that weak demand has played a critical and lasting role in the United Kingdom's post-financial crisis slowdown. Exploiting local variation in the 2010 austerity program, I document that young firms, traditionally major contributors to job creation and productivity growth, saw their growth stall in regions hit harder by spending reductions. Young firms cut marketing expenditure by 15% and saw output growth slow, while employment and other production inputs were unaffected.
-To explain why demand shocks disproportionately scar young firms, I develop a dynamic general equilibrium model where firms accumulate customers with heterogeneous income. Two features are key. First, non-homothetic preferences generate higher income elasticities for low-income households. Second, low-income customers churn faster, making them over-represented in the acquisition pool. Together, these forces create a "churn trap": young firms inherit low income-biased customer bases and face disproportionately volatile demand. When household income falls, the expected value of acquiring new customers drops sharply, causing young firms to cut marketing - their primary investment in customer acquisition.
-The calibrated model replicates key empirical patterns and attributes an upper-bound estimate of approximately one-quarter of the UK's post-crisis productivity shortfall to these demand-side forces.
+**Abstract:** What are the effects of a fiscal consolidation on firm growth? Do these effects depend on which households bear the cuts? I study the UK’s 2010–2015 austerity programme, whose welfare cuts fell mostly on low-income households. Young firms in more exposed local authorities cut customer acquisition by around 15% per standard deviation relative to less exposed peers, while their employment, capacity utilisation and markups were unaffected.
+Young firms’ output per worker fell and remained depressed through 2014, well after the acquisition cut had faded, suggesting a durable loss of customer base. Old firms showed
+no comparable adjustment. To explain why regressive shocks disproportionately scar young firms, I build a general equilibrium model in which firms accumulate customers
+from a heterogeneous-income population. Low-income customers churn faster, so young firms inherit poor-biased customer base. This creates a “churn trap”: young firms depend
+most on the households a regressive consolidation hits hardest. The effects are especially strong for firms that operate in ‘luxury’ sectors which by definition are more income-elastic. In the calibrated model, the 2010s austerity programme destroys about half as much again of young firms’ customer capital as a progressive consolidation of the same
+size, and costs about a tenth more output beyond the pounds it withdraws, £11bn over the decade; the cohort entering during the shock remains persistently smaller than in the
+absence of the consolidation. A flat design would have avoided about a fifth of young firms’ loss of customer capital, and a progressive design about three tenths.
 
 ## Working Papers
 
