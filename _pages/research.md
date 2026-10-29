@@ -30,7 +30,7 @@ absence of the consolidation. A flat design would have avoided about a fifth of 
 
 **[Monetary Transmission in a HANK Model with Housing and Rental Sectors](/assets/pdf/CFMDP2025-29-Paper.pdf){: .custom-link}, with [Daniel Albuquerque](https://danielalbuquerque.com/){: .custom-link} and [Jamie Lenney](https://s0840389.github.io/jamielenneyecon/){: .custom-link}**
 
-*Previously circulated as "Monetary Transmission Through The Housing Sector"*
+*CFM Discussion Paper 2025-29. Previously circulated as "[Monetary Transmission Through the Housing Sector](/assets/pdf/swp115compressed.pdf){: .custom-link}", Bank of England Staff Working Paper No. 1,115*
 
 [Replication code](https://github.com/s0840389/MTHHR){: .custom-link}
 
@@ -49,6 +49,8 @@ absence of the consolidation. A flat design would have avoided about a fifth of 
 **Abstract:** This paper estimates the heterogeneous effects of monetary policy across a novel dimension, housing tenure. Using microdata from one of the UK’s largest property rental and sales websites, we show that, as in the US, a contractionary shock to the policy rate leads to 1) an increase in rental prices and simultaneously 2) a fall in house prices. The granular microdata also allows us to demonstrate that a contractionary shock leads to a decrease in the listing rate of rental properties, suggesting that this heterogeneous response across rents and house prices is not solely driven by household tenure decisions, but also by a rental supply channel. Finally, our identification approach does not lead to the typical ‘price puzzle’ found in many monetary VARs, suggesting that while contractionary policy lowers inflation, inflation incidence is heterogeneous across housing tenure and implies a new distributional channel of monetary policy.
 
 
-**[Household Debt and Labour Supply](/assets/pdf/household-debt-and-labour-supply.pdf){: .custom-link}, Bank of England Staff Working Paper no.941, with Phil Bunn, Jagjit Chadha, Stephen Millard, and [Emma Rockall](https://www.emmarockall.com/){: .custom-link}**
+**[Household Debt and Labour Supply](/assets/pdf/household-debt-and-labour-supply.pdf){: .custom-link}, with Phil Bunn, Jagjit Chadha, Stephen Millard, and [Emma Rockall](https://www.emmarockall.com/){: .custom-link}**
+
+*Bank of England Staff Working Paper No. 941*
 
 **Abstract:** In this paper, we first develop a theoretical framework with three types of household: outright homeowners, mortgagors and renters. We then examine empirically how household debt affects the response of labour supply to shocks to income, mortgage interest rates and house prices for each type of household. In line with our framework, we find that negative income shocks lead to lower participation among outright homeowners while increasing mortgagors’ desired hours; surprise rises in interest rates lead to increases in desired hours that are larger the higher is the household’s debt level; and falls in house prices increase mortgagors’ desired hours. 
