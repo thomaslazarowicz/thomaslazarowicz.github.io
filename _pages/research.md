@@ -30,7 +30,8 @@ absence of the consolidation. A flat design would have avoided about a fifth of 
 
 **[Monetary Transmission in a HANK Model with Housing and Rental Sectors](/assets/pdf/CFMDP2025-29-Paper.pdf){: .custom-link}, with [Daniel Albuquerque](https://danielalbuquerque.com/){: .custom-link} and [Jamie Lenney](https://s0840389.github.io/jamielenneyecon/){: .custom-link}**
 
-*CFM Discussion Paper 2025-29. Previously circulated as "[Monetary Transmission Through the Housing Sector](/assets/pdf/swp115compressed.pdf){: .custom-link}", Bank of England Staff Working Paper No. 1,115*
+*CFM Discussion Paper 2025-29.*<br>
+*Previously circulated as "[Monetary Transmission Through the Housing Sector](/assets/pdf/swp115compressed.pdf){: .custom-link}", Bank of England Staff Working Paper No. 1,115*
 
 [Replication code](https://github.com/s0840389/MTHHR){: .custom-link}
 
@@ -38,9 +39,25 @@ absence of the consolidation. A flat design would have avoided about a fifth of 
 
 **Starting Over: The Cost of Fresh Starts and the Reallocation of Serial Entrepreneurs** 
 
-[Slides](https://github.com/s0840389/MTHHR){: .custom-link}
+[Slides](/assets/pdf/SE_website.pdf){: .custom-link}
 
-**Abstract:** Firms run by serial entrepreneurs are larger and more productive, yet how much their reallocation across businesses contributes to aggregate output is unknown. I develop a firm-dynamics model in which entrepreneurs learn about their own ability and their business-specific match quality, and must liquidate and refinance to start over. I estimate the model on administrative data covering the universe of UK firms linked to their beneficial owners, which lets me follow entrepreneurs across the businesses they run. Two facts discipline the mechanism: within entrepreneurs, the serial productivity premium predates the switch to a new business — selection on ability, not learning-by-doing — and exit rates rise and then fall with firm age, as they do in the model because entrepreneurs need time to learn whether a business is worth keeping. Lowering the cost of starting over raises aggregate output by 4 percent and triples the serial-entrepreneur share, with the gain coming from reallocating able entrepreneurs toward better matches rather than from entry or scale. For bankruptcy policy, the cost of starting over is what matters, not creditor recovery: raising recovery rates increases output only when it also makes fresh starts cheaper.
+**Abstract:** Firms run by serial entrepreneurs are larger and more productive, yet
+little is known about how much aggregate output is lost because starting over
+is costly. I develop a firm-dynamics model in which entrepreneurs learn about
+their own ability and their business-specific match quality, and must liquidate
+and refinance to start over. I estimate the model on administrative data
+covering UK companies linked to their beneficial owners, which lets me follow
+entrepreneurs across the businesses they run. Two facts discipline the
+mechanism: within entrepreneurs, the serial productivity premium predates the
+switch to a new business, so it reflects selection on ability, not learning by
+doing; and exit rates fall with firm age, as entrepreneurs learn their ability
+in their first years. Because entrepreneurs learn slowly how good a match their
+business is, the most able wait years longer to start over than they would if
+they could see it. Removing the cost of starting over raises aggregate output
+by $2$ percent and makes serial entrepreneurship the norm, with the gain coming
+from more firms, not better ones. For bankruptcy policy, recovering more of a
+failed firm's capital does more for output than cutting the cost of a fresh
+start by a quarter.
 
 ## Older Papers
 
