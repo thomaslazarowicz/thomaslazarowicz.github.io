@@ -20,13 +20,8 @@ a.custom-link {
 
 *Peter Sinclair Prize for Best Paper (13th MMF PhD Conference)*
 
-**Abstract:** What are the effects of a fiscal consolidation on firm growth? Do these effects depend on which households bear the cuts? I study the UK’s 2010–2015 austerity programme, whose welfare cuts fell mostly on low-income households. Young firms in more exposed local authorities cut customer acquisition by around 15% per standard deviation relative to less exposed peers, while their employment, capacity utilisation and markups were unaffected.
-Young firms’ output per worker fell and remained depressed through 2014, well after the acquisition cut had faded, suggesting a durable loss of customer base. Old firms showed
-no comparable adjustment. To explain why regressive shocks disproportionately scar young firms, I build a general equilibrium model in which firms accumulate customers
-from a heterogeneous-income population. Low-income customers churn faster, so young firms inherit poor-biased customer base. This creates a “churn trap”: young firms depend
-most on the households a regressive consolidation hits hardest. The effects are especially strong for firms that operate in ‘luxury’ sectors which by definition are more income-elastic. In the calibrated model, the 2010s austerity programme destroys about half as much again of young firms’ customer capital as a progressive consolidation of the same
-size, and costs about a tenth more output beyond the pounds it withdraws, £11bn over the decade; the cohort entering during the shock remains persistently smaller than in the
-absence of the consolidation. A flat design would have avoided about a fifth of young firms’ loss of customer capital, and a progressive design about three tenths.
+**Abstract:** What are the effects of a fiscal consolidation on firm growth, and do they depend on its distributional incidence? I study the UK's 2010--2015 austerity programme, whose welfare cuts fell mostly on low-income households. Young firms in more exposed local authorities cut customer acquisition by up to 15\% per standard deviation relative to less exposed peers, while their employment, capacity utilisation and markups were unaffected.  Young firms' value added fell and remained depressed through 2015, even after spending on customer acquisition recovered, suggesting a durable loss of customer base. Old firms showed no comparable adjustment.
+To explain why regressive shocks disproportionately scar young firms, I build a general equilibrium model in which firms accumulate customers from a heterogeneous-income population. Low-income customers churn faster, so young firms inherit a poor-biased customer base. This creates a “churn trap”: young firms depend most on the households a regressive consolidation hits hardest. The effects are especially strong for firms that operate in ‘luxury’ sectors, whose demand is the most income-elastic.  In the calibrated model, the 2010 austerity programme destroys about half as much again of young firms' customer capital as a progressive consolidation of the same size, and costs about nine pence more output per pound withdrawn than a progressive design, \pounds11bn over the decade; the cohort entering during the shock remains persistently smaller than in the absence of the consolidation. A flat design would have avoided about a fifth of young firms' loss of customer capital, and a progressive design about three tenths.
 
 **[Monetary Transmission in a HANK Model with Housing and Rental Sectors](/assets/pdf/CFMDP2025-29-Paper.pdf){: .custom-link}, with [Daniel Albuquerque](https://danielalbuquerque.com/){: .custom-link} and [Jamie Lenney](https://s0840389.github.io/jamielenneyecon/){: .custom-link}**
 
@@ -35,11 +30,11 @@ absence of the consolidation. A flat design would have avoided about a fifth of 
 
 [Replication code](https://github.com/s0840389/MTHHR){: .custom-link}
 
-**Abstract:** This paper develops a Heterogeneous Agent New Keynesian (HANK) model with housing and individual landlords to examine how monetary policy affects housing and rental markets. Using new UK evidence we document that contractionary monetary policy generates a large, hump-shaped, decline in house prices, while rental prices remain flat. We match the model to micro and macro data, showing that behavioural frictions combined with departures from a RANK framework are key for generating these price dynamics. The results reveal that landlords largely fail to pass through higher interest rates to rents. However, this incomplete pass-through reduces the output-inflation trade-off facing inflation-targeting central banks.
+**Abstract:** This paper develops a Heterogeneous Agent New Keynesian (HANK) model with housing and individual landlords to study how monetary policy transmits through and responds to housing and rental markets. Using new UK evidence we document that contractionary monetary policy generates a large, hump-shaped decline in house prices, while real rental prices increase mildly. We match the model to these facts and show how heterogeneity, real and behavioural frictions shape the response of rents and house prices to monetary policy. In turn rents and house prices become important for the transmission of monetary policy, and redistribute between renters, owners and landlords. Because a tightening modestly raises real rental prices, the model implies that policymakers should largely look through housing-driven inflation even under a headline inflation mandate. 
 
 **Starting Over: The Cost of Fresh Starts and the Reallocation of Serial Entrepreneurs** 
 
-[Slides](/assets/pdf/SE_website.pdf){: .custom-link}
+[Slides](/assets/pdf/SE_website.pdf){: .custom-link} · *Draft coming soon*
 
 **Abstract:** Firms run by serial entrepreneurs are larger and more productive, yet
 little is known about how much aggregate output is lost because starting over
