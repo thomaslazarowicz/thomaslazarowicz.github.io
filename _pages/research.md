@@ -54,12 +54,11 @@ from more firms, not better ones. For bankruptcy policy, recovering more of a
 failed firm's capital does more for output than cutting the cost of a fresh
 start by a quarter.
 
-## Older Papers
-
 **[Winners and Losers from Monetary Policy: Evidence from the UK Rental Market](/assets/pdf/Thomas_Lazarowicz_Morgane_Richard_paper.pdf){: .custom-link}, with [Morgane Richard](https://www.morganerichard.com/){: .custom-link}**
 
 **Abstract:** This paper estimates the heterogeneous effects of monetary policy across a novel dimension, housing tenure. Using microdata from one of the UK’s largest property rental and sales websites, we show that, as in the US, a contractionary shock to the policy rate leads to 1) an increase in rental prices and simultaneously 2) a fall in house prices. The granular microdata also allows us to demonstrate that a contractionary shock leads to a decrease in the listing rate of rental properties, suggesting that this heterogeneous response across rents and house prices is not solely driven by household tenure decisions, but also by a rental supply channel. Finally, our identification approach does not lead to the typical ‘price puzzle’ found in many monetary VARs, suggesting that while contractionary policy lowers inflation, inflation incidence is heterogeneous across housing tenure and implies a new distributional channel of monetary policy.
 
+## Policy Papers
 
 **[Household Debt and Labour Supply](/assets/pdf/household-debt-and-labour-supply.pdf){: .custom-link}, with Phil Bunn, Jagjit Chadha, Stephen Millard, and [Emma Rockall](https://www.emmarockall.com/){: .custom-link}**
 
