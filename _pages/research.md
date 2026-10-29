@@ -14,9 +14,9 @@ a.custom-link {
 }
 </style>
 
-## Job Market Paper
+## Working Papers
 
-**Demand-Driven Stagnation: Customer Acquisition and Firm Growth**
+**Demand-Driven Stagnation: Customer Acquisition and Firm Growth** (JMP)
 
 *Peter Sinclair Prize for Best Paper (13th MMF PhD Conference)*
 
@@ -27,8 +27,6 @@ from a heterogeneous-income population. Low-income customers churn faster, so yo
 most on the households a regressive consolidation hits hardest. The effects are especially strong for firms that operate in ‘luxury’ sectors which by definition are more income-elastic. In the calibrated model, the 2010s austerity programme destroys about half as much again of young firms’ customer capital as a progressive consolidation of the same
 size, and costs about a tenth more output beyond the pounds it withdraws, £11bn over the decade; the cohort entering during the shock remains persistently smaller than in the
 absence of the consolidation. A flat design would have avoided about a fifth of young firms’ loss of customer capital, and a progressive design about three tenths.
-
-## Working Papers
 
 **[Monetary Transmission in a HANK Model with Housing and Rental Sectors](/assets/pdf/CFMDP2025-29-Paper.pdf){: .custom-link}, with [Daniel Albuquerque](https://danielalbuquerque.com/){: .custom-link} and [Jamie Lenney](https://s0840389.github.io/jamielenneyecon/){: .custom-link}**
 
