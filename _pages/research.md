@@ -38,12 +38,9 @@ absence of the consolidation. A flat design would have avoided about a fifth of 
 
 **Starting Over: The Cost of Fresh Starts and the Reallocation of Serial Entrepreneurs** 
 
+[Slides](https://github.com/s0840389/MTHHR){: .custom-link}
+
 **Abstract:** Firms run by serial entrepreneurs are larger and more productive, yet how much their reallocation across businesses contributes to aggregate output is unknown. I develop a firm-dynamics model in which entrepreneurs learn about their own ability and their business-specific match quality, and must liquidate and refinance to start over. I estimate the model on administrative data covering the universe of UK firms linked to their beneficial owners, which lets me follow entrepreneurs across the businesses they run. Two facts discipline the mechanism: within entrepreneurs, the serial productivity premium predates the switch to a new business — selection on ability, not learning-by-doing — and exit rates rise and then fall with firm age, as they do in the model because entrepreneurs need time to learn whether a business is worth keeping. Lowering the cost of starting over raises aggregate output by 4 percent and triples the serial-entrepreneur share, with the gain coming from reallocating able entrepreneurs toward better matches rather than from entry or scale. For bankruptcy policy, the cost of starting over is what matters, not creditor recovery: raising recovery rates increases output only when it also makes fresh starts cheaper.
-
-## Work in Progress
-
-**Industrial Policy and Firm Entry**
-
 
 ## Older Papers
 
