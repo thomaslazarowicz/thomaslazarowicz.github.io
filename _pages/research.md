@@ -32,9 +32,7 @@ To explain why regressive shocks disproportionately scar young firms, I build a 
 
 **Abstract:** This paper develops a Heterogeneous Agent New Keynesian (HANK) model with housing and individual landlords to study how monetary policy transmits through and responds to housing and rental markets. Using new UK evidence we document that contractionary monetary policy generates a large, hump-shaped decline in house prices, while real rental prices increase mildly. We match the model to these facts and show how heterogeneity, real and behavioural frictions shape the response of rents and house prices to monetary policy. In turn rents and house prices become important for the transmission of monetary policy, and redistribute between renters, owners and landlords. Because a tightening modestly raises real rental prices, the model implies that policymakers should largely look through housing-driven inflation even under a headline inflation mandate. 
 
-**Starting Over: The Cost of Fresh Starts and the Reallocation of Serial Entrepreneurs** 
-
-[Slides](/assets/pdf/SE_website.pdf){: .custom-link} · *Draft coming soon*
+**[Starting Over: Learning, Fresh Starts and the Reallocation of Serial Entrepreneurs](/assets/pdf/LazarowiczSerialEntrepreneurs.pdf){: .custom-link}**
 
 **Abstract:** Firms run by serial entrepreneurs are larger and more productive, yet
 little is known about how much aggregate output is lost because starting over
